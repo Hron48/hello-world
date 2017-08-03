@@ -1,5 +1,4 @@
 # hello-world
 test
-Hello all
-grfgha
+git clone https://github.com/angular/quickstart.git
 
